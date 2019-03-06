@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title></title>
+	<title>Document</title>
 </head>
 <body>
 	<section class="home_work2">
